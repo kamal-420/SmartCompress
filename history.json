@@ -1,0 +1,118 @@
+[
+    {
+        "date_time": "2026-06-17 16:49:06",
+        "total_files": 27,
+        "original_size": 76152439,
+        "compressed_size": 10321811,
+        "saved_size": 65830628,
+        "saved_percent": 86.44585631722182
+    },
+    {
+        "date_time": "2026-06-17 16:54:40",
+        "total_files": 27,
+        "original_size": 76152439,
+        "compressed_size": 10321811,
+        "saved_size": 65830628,
+        "saved_percent": 86.44585631722182
+    },
+    {
+        "date_time": "2026-06-17 16:54:57",
+        "total_files": 27,
+        "original_size": 76152439,
+        "compressed_size": 10321811,
+        "saved_size": 65830628,
+        "saved_percent": 86.44585631722182
+    },
+    {
+        "date_time": "2026-06-17 17:07:30",
+        "total_files": 27,
+        "original_size": 76152439,
+        "compressed_size": 10321811,
+        "saved_size": 65830628,
+        "saved_percent": 86.44585631722182
+    },
+    {
+        "date_time": "2026-06-17 17:57:54",
+        "total_files": 31,
+        "original_size": 659729340,
+        "compressed_size": 46094581,
+        "saved_size": 613634759,
+        "saved_percent": 93.0131073145845
+    },
+    {
+        "date_time": "2026-06-17 22:16:07",
+        "total_files": 27,
+        "original_size": 76152439,
+        "compressed_size": 8527540,
+        "saved_size": 67624899,
+        "saved_percent": 88.80201328811019
+    },
+    {
+        "date_time": "2026-06-17 22:16:36",
+        "total_files": 27,
+        "original_size": 76152439,
+        "compressed_size": 8527540,
+        "saved_size": 67624899,
+        "saved_percent": 88.80201328811019
+    },
+    {
+        "date_time": "2026-06-17 22:28:27",
+        "total_files": 31,
+        "original_size": 659729340,
+        "compressed_size": 135161334,
+        "saved_size": 524568006,
+        "saved_percent": 79.51260830691568
+    },
+    {
+        "date_time": "2026-06-22 12:44:24",
+        "total_files": 32,
+        "original_size": 659736823,
+        "compressed_size": 106859752,
+        "saved_size": 552877071,
+        "saved_percent": 83.8026697503286
+    },
+    {
+        "date_time": "2026-06-22 13:07:30",
+        "total_files": 32,
+        "original_size": 659736823,
+        "compressed_size": 218839810,
+        "saved_size": 440897013,
+        "saved_percent": 66.8292260836864
+    },
+    {
+        "date_time": "2026-06-22 14:33:47",
+        "date": "2026-06-22",
+        "time": "14:33:47",
+        "total_files": 32,
+        "original_size": 659736823,
+        "compressed_size": 107082728,
+        "saved_size": 552654095,
+        "saved_percent": 83.76887203096135,
+        "output_folder": "C:/Users/DELL/Pictures/photos\\Compressed_Output",
+        "compression_time": 111.55321288108826
+    },
+    {
+        "date_time": "2026-06-23 11:13:49",
+        "date": "2026-06-23",
+        "time": "11:13:49",
+        "total_files": 32,
+        "original_size": 659736823,
+        "compressed_size": 107082728,
+        "saved_size": 552654095,
+        "saved_percent": 83.76887203096135,
+        "output_folder": "C:/Users/DELL/Pictures/Camera Roll\\Compressed_Output",
+        "compression_time": 142.61026000976562
+    },
+    {
+        "date_time": "2026-06-23 17:32:20",
+        "date": "2026-06-23",
+        "time": "17:32:20",
+        "total_files": 32,
+        "original_size": 659736823,
+        "compressed_size": 107082728,
+        "saved_size": 552654095,
+        "saved_percent": 83.76887203096135,
+        "output_folder": "C:/Users/DELL/Pictures/my\\Compressed_Output",
+        "compression_time": 101.78413486480713
+    }
+]
